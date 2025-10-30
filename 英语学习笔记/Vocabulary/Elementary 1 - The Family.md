@@ -1,116 +1,318 @@
-# **Elementary 1 - The Family**
+# Elementary 1 - The Family
 
-## Family Tree（家谱）
+## Family Tree（家谱-男左女右）
 
-![Family Tree](https://picgo-storage-typora.oss-cn-shanghai.aliyuncs.com/EN-Word-1-1-Family-Tree.png?Expires=1755675771&OSSAccessKeyId=TMP.3KoMz83F8EgXRHw4ypZhHvVnpc3VpQnNwGfHMJ4MZWzBUkcdffnoei21jjntvMCWkDmoyB81A1yKAEicbirMidu21MTkza&Signature=Yn78EjoBm1j4kUElQdZ6X%2FqNLD0%3D)
+![Family Tree](https://picgo-storage-typora.oss-cn-shanghai.aliyuncs.com/EN-Word-1-1-Family-Tree.png)
 
 ## 单词
-### relative
-**Definition:**
 
-1. `[countable] n.` 亲属，亲戚。(复数：relatives)
-	(1) a person connected by blood or marriage（一个通过血脉或者婚姻连接的人）
-	(2) a species related to another by common origin.（因共同起源与另一物种相关的物种）
+### relative
+#### 单词释义：
+
+`[countable] n.` 亲属，亲戚。(复数：relatives)
+
+牛津词典解释：a person connected by blood or marriage（一个通过血脉或者婚姻连接的人）
+
 > *Expressions：*
-> (1)
+>
 > much of my time is spent visiting relatives. （我的大多数时间用来探望亲戚）
 > he met with relatives of the deceased. （他会见了死者的亲属）
-> (2)
-> the plant is a relative of ivy. （这种植物是常春藤的近亲）
-
-2. `adj.` 相对的；
-	(1) considered in relation or in proportion to something else（被认为与其他事物有关或成比例）
-	(2) existing or prossessing a specified characteristic only in comparison to something else; not absolute（只有在与其他事物相比时才存在或具有特定特征的；不是绝对的）
-> *Expressions:*
-> (1)
-> the relative effectiveness of the various mechanisms is not known.（各种机制的相对有效性尚不清楚）
-> (2)
-> she went down the steps into the relative darkness of the dining room.（她走下台阶，进入相对黑暗的餐厅）
-> the firms are relative newcomers to compters.（相对而言，这些公司是电脑行业的新手）
-
-**Phrases:**
-relative to
-1. in comparison with（与....相比）;in term of a connection to（就与...的联系而言）
-> *Expressions:*
-> banks are holding more capital and are borrowing less relative to their assets.（相对于其他资本，银行持有更多的资本和更少的借贷）
-> the figures suggest that girls are underachieving relative to boys.（这些数字表明，女孩的成绩不如男孩）
-> we must consider the location of the hospital relative to its catchment area.（我们必须考虑医院相对于排水区的位置）
-
-2. about;concerning
-> *Expressions:*
-> if you have any queries relative to payment, please contact us.（如果您对付款有任何疑问，请与我们联系）
-
-**Derivatives:**
-relatively `adv.` 相对地
-relation `n.` （表示抽象关系）关系，联系
-relationship `n. `（表示抽象关系）关系，联系
-relativeness `n.` 相关性，表示属性状态
-relate `v.` 使相关，讲述
-relational `adj.` 关系的，相关的
 
 ### relation
-**Definition:**
-1. `n.` 抽象名词本身不可数，关注在不同场景下的复数表示含义，并不代表名词可以用数量进行修饰。 
-	(1) `[uncountable]` the way in which two or more people or things are connected; a thing's effect on or relevance to another（两个或两个以上人或事物***连接的方式***；一件事情对另一件事情的影响或者相关性）
-	(2) `复数形式` (**relations**) the way in which two or more people or groups feel about and behave towards each other:（两个或两个以上的人或群体对彼此的感觉和行为方式）
-	(3) `复数形式` (**relations**) formal sexual intercourse（正式的性交）
-	(4) `[countable] n.` a person who is connected by blood or marriage; a relative（一个通过血脉或者婚姻连接的人；一个亲戚）
-	(5) `[mass noun]` the action of telling a story.
+
+#### 单词释义：
+
+`[countable] n.`亲属，亲戚。（复数形式：relations）
+
+ 牛津词典解释：a person who is connected by blood or marriage; a relative（一个通过血脉或者婚姻连接的人；一个亲戚）
+
+在描述家人的场景下，该单词的含义与relative是没有区别的。
+
 > *Expressions:*
-> (1)
-> questions about the relation between writing and reality （关于写作和现实之间关系的问题）
-> the size of the targets bore no relation to their importance（目标的大小与它们的重要性无关）
-> (2)
-> the improvement in relations between the two countries （两国关系的改善）
-> the meetings helped cement Anglo-American relations（这些会议巩固了英美的关系）
-> (3)
-> we had stopped having relations of any kind they can take vows of chastity, and give up sexual relations entirely.（我们已经停止了任何形式的关系，他们可以发誓保持贞洁，完全放弃性关系。）
-> (4)
+>
 > he has no close relations.（他没有近亲）
 
-**Phrease:**
-in relation to
-1. in the context of; in connection with（在…的背景下；关于）
->*Expressions:*
->there is an ambiguity in the provisions in relation to children's hearings（关于儿童听证会的规定有歧义）
-
-**Derivatives:**
-[具体请见relative的词性转换](#relative)
-
 ### child
-**Definition:**
-1. `n.` 孩子（复数形式：children）
-	(1) a young human being below the age of puberty or below the legal age of majority（低于青春期年龄或低于法定成年年龄的年轻人）
-	(2) a son or daughter of any age (任何年龄的儿子或者女儿)
-	(3) an immature or irresponsible person（不成熟或不负责任的人）
-	(4) a person who has little or no experience in a particular area（在某一特定领域很少或没有经验的人）
-	(5) (child of) a person regarded as the product of (a specified influence or environment)（被认为是（特定影像或环境）产物的人）
+#### 单词释义：
+
+`[countable] n.` 孩子（复数形式：children）
+
+牛津词典释义：a son or daughter of any age (任何年龄的儿子或者女儿)
+
 > *Expressions:*
-> (1)
-> she'd been playing tennis since she was a child.（她从小就一直在打网球）
-> the film is not suitable for children.（这部电影不适合儿童看）
-> (2)
+>
 > when children leave home, parents can feel somewhat redundant.（当孩子离开家时，父母会觉得有些多余）
-> (3)
-> she's such a child!（她真是个孩子！）
-> (4)
-> he's a child in financial matters（他在财务方面还是个孩子）
-> (5)
-> a child of the Sixties（六十年代的孩子）
-
-**Phrases:**
-child's play 
-1. a task which is easily accomplished
-> *Expressions*:
-> tapping phones is child's play.
-
-from a child 
-1. since childhood
-> *Expressions:*
-> from a child she had taken ballet lessons.（她从小就上过芭蕾舞课）
 
 ### husband
-**Definition:**
-1. `n.` a married man considered in relation to his spouse（被认为和配偶有关系的已婚男子）
-2. `v. [with object]` use (resources) economically
-she husbanded their financial resources through difficult times.
+#### 单词释义：
+
+`[countable] n.` 丈夫（复数形式：husbands）
+
+牛津单词释义：a married man considered in relation to his spouse（被认为和配偶有关系的已婚男子）
+
+### father
+
+#### 单词释义:
+
+`[countable] n.` 父亲（复数形式：fathers）
+
+牛津词典释义：a man in relation to his child or children.（一个人与他的孩子或者孩子们的关系）
+
+> *Expressions:*
+>
+> Margaret's father died at an early age they assumed that I was the father of the child.（Margaret的父亲在他还小的时候就去世了，他们认为我是这个孩子的父亲。
+
+### wife
+
+#### 单词释义：
+
+`[countable] n.`妻子（复数形式：wives）
+
+牛津词典释义：a married woman considered in relation to her spouse. （被认为与其配偶有关系的已婚妇女）
+
+> *Expressions:*
+>
+> he and his wife are keen gardeners.（他和他的妻子都是园艺爱好者）
+
+### mother
+
+#### 单词释义：
+
+`[countable] n.`母亲（复数形式：mothers）
+
+牛津词典释义：a woman in relation to her child or children. （一个与其孩子有关系的女人）
+
+>*Expressions:*
+>
+>his mother was a painter （他的母亲过去是一个画家）
+>
+>a mother of three （三个孩子的母亲）
+>
+>she returned to Bristol to nurse her ageing mother.（她回到布里斯托尔照顾她年迈的母亲）
+
+### parent
+
+#### 单词释义：
+
+`[countable] n.`父母（复数形式：parents）
+
+牛津单词释义：a person's father or mother.（一个人的父亲或者母亲）
+
+> *Expressions:*
+>
+> the parents of the bride （新娘的母亲）
+>
+> his adoptive parents （他的养父母）
+
+### daughter
+
+#### 单词释义：
+
+`[countable] n.`女儿（复数形式：daughters）
+
+牛津单词释义：a girl or woman in relation to either or both of her parents.（与父母一方或者双方有亲戚关系的女孩或者女人）
+
+> *Expressions:*
+>
+> we are the sons and daughters of Adam（我们都是阿达姆的儿子、女儿）
+
+### son
+
+#### 单词释义：
+
+`[countable] n.`儿子（复数形式：sons）
+
+牛津单词释义：a boy or man in relation to either or both of his parents. （与父母一方或者双方有亲戚关系的男孩或者男人）
+
+> *Expressions:*
+>
+> the sons of Adam.（阿达姆的儿子）
+
+### sister
+
+#### 单词释义：
+
+`[countable] n.`姐姐、妹妹（复数形式：sisters）
+
+牛津单词释义：a woman or girl in relation to other daughters and sons of her parents（与其父母其他儿子或者女儿有关系的女孩或者女人）
+
+> *Expressions:*
+>
+>  I had nine brothers and sisters.（我有九个兄弟姐妹）
+
+### brother
+
+#### 单词释义：
+
+`[countable] n.`兄弟（复数形式：brothers）
+
+牛津单词释义：a man or boy in relation to other sons and daughters of his parents（与其父母其他儿子或者女儿有关系的男孩或者男人）
+
+> *Expressions:*
+>
+> he has three older brothers.（他有三个比他年长的哥哥）
+>
+> she and her brother had travelled to Jordan.（她和她哥哥去了约旦）
+>
+> he considered them to be like brothers to him.（他把他们当作自己的弟兄）
+
+### grandfather
+
+#### 单词释义：
+
+`[countable] n.`外祖父（复数形式：grandfathers）
+
+牛津单词释义：the father of one's father or mother. （一个人父亲或母亲的父亲）
+
+> *Expressions:*
+>
+> Freud is often called the grandfather of psychoanalysis.（弗洛伊德常被称为精神分析学之父）
+
+### grandmother
+
+#### 单词释义：
+
+`[countable] n.`外祖母（复数形式：grandmothers）
+
+牛津单词释义：the mother of one's father or mother. （一个人父亲或母亲的母亲）
+
+> *Expressions:*
+>
+> my grandmother is ill （我的外祖母生病了）
+
+### grandparent
+
+#### 单词释义：
+
+`[countable] n.`外祖父母（复数形式：grandparents）
+
+牛津单词释义：a parent of one's father or mother; a grandmother or grandfather（一个人的父亲或母亲的父母；外祖父或外祖母）
+
+> *Expressions:*
+>
+> it must be a great blessing to have Chloe's grandparents living nearby（克洛伊的祖父母住在附近一定是一件好事）
+
+### granddaughter
+
+#### 单词释义：
+
+`[countable] n.`孙女（复数形式：granddaughters）
+
+牛津单词释义：a daughter of one's son or daughter（一个人儿子或者女儿的女儿）
+
+> *Expressions:*
+>
+>  I have a granddaughter who is two.（我有一个两岁的孙女）
+
+### grandson
+
+#### 单词释义：
+
+`[countable] n.`孙子（复数形式：grandsons）
+
+牛津单词释义：the son of one's son or daughter（一个人儿子或者女儿的儿子）
+
+> *Expressions:*
+>
+> he was proud of his four grandsons.（他为他的四个孙子感到骄傲）
+
+### uncle
+
+#### 单词释义：
+
+`[countable] n.`叔叔（复数形式：uncles）家中所有一代的男性长辈
+
+牛津单词释义：the brother of one's father or mother, or the husband or male partner of one's aunt or uncle（父亲或者母亲的兄弟，或者姨妈或者叔叔的丈夫或者男性伴侣）
+
+> *Expressions:*
+>
+> he visited his uncle.（他看望了他的叔叔）
+
+### aunt
+
+#### 单词释义：
+
+`[countable] n.`姨妈，阿姨（复数形式：aunts）家中所有一代女性长辈
+
+牛津单词释义：the sister of one's father or mother, or the wife or female partner of one's uncle or aunt（父亲或者母亲的姐妹，或者叔叔或者姨妈的妻子或女性伴侣）
+
+> *Expressions:*
+>
+> she was brought up by her aunt and uncle.（她是由她的叔叔婶婶带大的）
+
+### niece
+
+#### 单词释义：
+
+`[countable] n.`侄女（复数形式：nieces）
+
+牛津单词释义：a daughter of one's brother or sister, or of one's brother-in-law or sister-in-law（兄弟或者姐妹的女儿，或者法律上兄弟姐妹的女儿）
+
+> *Expressions:*
+>
+> having never married or had children, he left his inheritance to his two nieces.（他没有结婚也没有孩子，他把她的遗产留给了她的两个孩子）
+
+### nephew
+
+#### 单词释义：
+
+`[countable] n.`侄子（复数形式：nephews）
+
+牛津单词释义：a son of one's brother or sister, or of one's brother-in-law or sister-in-law（兄弟或者姐妹的儿子，或者法律上兄弟姐妹的儿子）
+
+> *Expressions:*
+>
+> he held up his little nephew in his arms（他把小侄子抱在怀里）
+
+### cousins
+
+#### 单词释义：
+
+`[countable] n.`堂兄弟，堂姐妹（复数形式：cousins）
+
+牛津单词释义：a child of one's uncle or aunt（叔叔或者婶婶的孩子）
+
+> *Expressions:*
+>
+> she's a distant cousin（她是远房堂姐妹）
+
+
+
+## 扩展词汇：
+
+family tree （家谱）
+
+a big family = a extend family （一个大家族）
+
+core family（核心家庭）
+
+the aged = the elderly = the old generation （老年人）
+
+gap year （空档期）
+
+generation gap（代沟）
+
+older sister（姐姐）
+
+younger sister（妹妹）
+
+older brother （哥哥）
+
+younger brother（弟弟）
+
+twins（双胞胎）
+
+baby -> kids -> child -> teenager -> adult（婴儿 -> 孩童 -> 孩子 -> 青年 -> 成年）
+
+close relative（近亲）
+
+distance relative（远方亲戚）
+
+mature（成熟的）
+
+step parents（继父亲/继母亲）
+
+father/mother in law（公公/婆婆）
+
+
+
